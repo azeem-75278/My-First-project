@@ -7,3 +7,4 @@ I am a beginner and learning how to create websites and software
 - Learn AI tools
 - Create websites
 - Build software projects
+hi
