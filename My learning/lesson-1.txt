@@ -6,3 +6,6 @@ making files
 saving files 
 uoloading files
 like my files
+Today I learn about commit.
+Commit keeps my project history.
+commit saves my changes
