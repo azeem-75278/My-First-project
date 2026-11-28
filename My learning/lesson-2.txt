@@ -1,0 +1,4 @@
+Today I learned about folders.
+Folders helps me organize my files.
+I can keep many files inside one folder.
+My prohect is organized on github.
